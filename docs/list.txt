@@ -1,0 +1,12 @@
+http://www.handypage.net/support/manuals/BravoClassic.pdf
+http://www.qsl.net/kb9mwr/projects/pager/plan.html
+http://users.rcn.com/carlott/projects.html
+http://blog.aprs.fi/2010/03/project-pocsag-paging-network.html
+http://www.qsl.net/kb9mwr/projects/pager/Pager%20Handbook%20for%20the%20Radio%20Amateur.pdf
+http://www.qsl.net/kb9mwr/projects/pager/pocsagtx.txt
+https://www.codeproject.com/articles/13189/pocsag-encoder
+http://www.braddye.com/index.html
+https://people.kth.se/~e92_spe/projects/pocsag.html
+http://www.piclist.com/techref/io/pagers.htm
+http://www.repeater-builder.com/rbtip/mojoindex.html
+
