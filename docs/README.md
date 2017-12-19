@@ -16,7 +16,6 @@ This page contains all the documents I've come across while trying to figure thi
 + [http://www.piclist.com/techref/io/pagers.htm]
 + [http://www.repeater-builder.com/rbtip/mojoindex.html]
 + [Decent writeup on POCSAG](http://www.aaroncake.net/schoolpage/pocsag.htm)
-+ [Swedish site, may or may not exist](http://hem.passagen.se/communication/pocsag.html)
 
 ## "From Scratch" FSK modem idea:
 + [555 based FSK circuit](http://www.gadgetronicx.com/design-of-wireless-modems-ic555-pll565/)
@@ -30,6 +29,7 @@ This page contains all the documents I've come across while trying to figure thi
 + [Original TAPR TNC writeup](http://www.tapr.org/pdf/CNC1984-EnhancedTNC-WA7GXD.pdf)
 + [Further writing on KI4MCW's TNC](https://michaldemin.wordpress.com/2012/02/27/cheap-afsk-tnc/)
 + [Using a TNC to do POCSAG](http://www.qsl.net/kb9mwr/projects/pager/Ham%20Radio%20Paging-Putting%20POCSAG%20On%20Packet.pdf)
++ [FM transmitter, discusses varactor tuning](http://electronics-diy.com/electronic_schematic.php?id=1066)
 
 ## ON1ARF
 + [RF22 board and Arduino](http://ratcotel.net/?p=376)
