@@ -15,10 +15,13 @@ This page contains all the documents I've come across while trying to figure thi
 + [https://people.kth.se/~e92_spe/projects/pocsag.html]
 + [http://www.piclist.com/techref/io/pagers.htm]
 + [http://www.repeater-builder.com/rbtip/mojoindex.html]
++ [Decent writeup on POCSAG](http://www.aaroncake.net/schoolpage/pocsag.htm)
++ [Swedish site, may or may not exist](http://hem.passagen.se/communication/pocsag.html)
 
 ## "From Scratch" FSK modem idea:
 + [555 based FSK circuit](http://www.gadgetronicx.com/design-of-wireless-modems-ic555-pll565/)
 + [FSK schematics, simulator](https://tams.informatik.uni-hamburg.de/applets/hades/webdemos/45-misc/40-modem/fsk-modulator.html)
++ [TI FSK educational thing](http://www.ti.com/lit/an/spra347/spra347.pdf)
 
 ## TNC construction:
 + [KI4MCW's excellent writeup on building a TNC on an Arduino](https://sites.google.com/site/ki4mcw/Home/arduino-tnc)
@@ -26,6 +29,10 @@ This page contains all the documents I've come across while trying to figure thi
 + [Driver circuits (varactors)](http://www.radio-electronics.com/info/data/semicond/varactor-varicap-diodes/circuits.php)
 + [Original TAPR TNC writeup](http://www.tapr.org/pdf/CNC1984-EnhancedTNC-WA7GXD.pdf)
 + [Further writing on KI4MCW's TNC](https://michaldemin.wordpress.com/2012/02/27/cheap-afsk-tnc/)
++ [Using a TNC to do POCSAG](http://www.qsl.net/kb9mwr/projects/pager/Ham%20Radio%20Paging-Putting%20POCSAG%20On%20Packet.pdf)
+
+## ON1ARF
++ [RF22 board and Arduino](http://ratcotel.net/?p=376)
 
 ## Baofeng hack:
 + [http://radioaficion.com/cms/radio-hacking-baofeng-uv-5r/]
