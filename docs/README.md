@@ -21,6 +21,7 @@ This page contains all the documents I've come across while trying to figure thi
 + [555 based FSK circuit](http://www.gadgetronicx.com/design-of-wireless-modems-ic555-pll565/)
 + [FSK schematics, simulator](https://tams.informatik.uni-hamburg.de/applets/hades/webdemos/45-misc/40-modem/fsk-modulator.html)
 + [TI FSK educational thing](http://www.ti.com/lit/an/spra347/spra347.pdf)
++ [RIT FSK paper](http://edge.rit.edu/content/P09141/public/FSK.pdf)
 
 ## TNC construction:
 + [KI4MCW's excellent writeup on building a TNC on an Arduino](https://sites.google.com/site/ki4mcw/Home/arduino-tnc)
